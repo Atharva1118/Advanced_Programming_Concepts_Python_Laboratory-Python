@@ -1,8 +1,8 @@
 # Dictionary Data Type
 
 student = {
-    "Name": "Suhana",
-    "Roll No": 23,
+    "Name": "Atharva",
+    "Roll No": 90,
     "Department": "CSE"
 }
 
