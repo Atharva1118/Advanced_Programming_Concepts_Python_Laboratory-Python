@@ -1,6 +1,6 @@
 # String Data Type
 
-name = "Suhana"
+name = "Atharva"
 
 print("Value:", name)
 print("Data Type:", type(name))
