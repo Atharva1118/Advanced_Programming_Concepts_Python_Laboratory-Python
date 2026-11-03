@@ -1,4 +1,4 @@
- Advanced Programming Concepts – Python Laboratory
+🐍 Advanced Programming Concepts – Python Laboratory
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white" alt="Python">
@@ -171,42 +171,6 @@ Django| Web application development
 Visual Studio Code| Code editor
 Git| Version control
 GitHub| Repository hosting
-
-⚙️ Installation and Setup
-
-Follow these steps to clone the repository and execute the programs on your local machine.
-
-Step 1: Clone the Repository
-
-git clone https://github.com/Atharva1118/Advanced_Programming_Concepts_Python_Laboratory-Python.git
-
-Step 2: Navigate to the Repository
-
-cd Advanced_Programming_Concepts_Python_Laboratory-Python
-
-Step 3: Install Required Libraries
-
-For NumPy, Pandas, and Matplotlib experiments:
-
-pip install numpy pandas matplotlib
-
-For Django experiments:
-
-pip install django
-
-Tkinter is generally included with standard Python installations. On some Linux distributions, it may need to be installed separately.
-
-Step 4: Run a Python Program
-
-Navigate to the folder containing the desired Python file and execute:
-
-python filename.py
-
-Alternatively, use:
-
-python3 filename.py
-
-Replace "filename.py" with the actual Python program name.
 
 💻 Development Environment
 
