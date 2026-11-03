@@ -23,7 +23,7 @@ The primary objective is to gain practical programming experience, strengthen pr
 - Develop graphical user interfaces using Tkinter.
 - Understand web application development using Django.
 - Improve coding, debugging, and analytical skills through practical implementation.
-
+  
 📂 Repository Structure
 
 The repository is organized into topic-wise folders for easy navigation.
@@ -31,31 +31,18 @@ The repository is organized into topic-wise folders for easy navigation.
 Advanced_Programming_Concepts_Python_Laboratory-Python/
 │
 ├── 01.Datatypes/
-│
 ├── 02.Loop/
-│
 ├── 03.String/
-│
 ├── 04.ListTupleSetDic/
-│
 ├── 05.Function/
-│
 ├── 06.File-Directory handling/
-│
 ├── 07.Class-Objects-constructor-destructor/
-│
 ├── 08.Inheritance-and-Polymorphism/
-│
 ├── 09.NumPy-Pandas/
-│
 ├── 10.matplotlib/
-│
 ├── 11.tkinter_gui_framework/
-│
 ├── 12.Django/
-│
 └── README.md
-
 📚 Topics Covered
 
 1. Python Data Types
